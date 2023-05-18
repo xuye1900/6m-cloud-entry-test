@@ -56,6 +56,13 @@ Implement a bash script that does the follow:
 
 ```sh
 # Answer here
+#!/bin/bash
+my_string='one, two, three'
+IFS=','read -r -a my_array<<<
+
+for elment in "${my_array[@]}"
+do
+echo$element
 ```
 
 ---
