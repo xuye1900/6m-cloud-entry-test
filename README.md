@@ -60,7 +60,7 @@ Implement a bash script that does the follow:
 my_string='one, two, three'
 IFS=','read -r -a my_array<<<
 
-for elment in "${my_array[@]}"
+for element in "${my_array[@]}"
 do
 echo$element
 ```
