@@ -78,7 +78,7 @@ Use [draw.io](draw.io) to draw a system architecture diagram as described below:
 - The database must not be connected to the internet gateway.
 
 Share the link to your image of diagram.
-
+https://app.diagrams.net/?src=about#Hxuye1900%2F6m-cloud-entry-test%2Fmain%2Fquestion%204.drawio
 ---
 
 **Question 5 - System Error Management**
