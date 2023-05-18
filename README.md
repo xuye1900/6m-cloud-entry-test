@@ -100,7 +100,8 @@ D - The principle of performance is not applied.
 ```
 Answer here
 ```
-
+Q5A: C
+Q5B: implement an antomation tracing system to check the error. grouping the same complaint and error into one catelag so Alan able to solve lots of same problems in one time. thus to reduce the impact of the availability problems. 
 ---
 
 END
